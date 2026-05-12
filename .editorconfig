@@ -1,0 +1,5 @@
+root = true
+
+[.js] ////// ou colocamos só 1 asteristico que ai pega pra todas as linguagens os "indent"
+indent_style = space
+indent_size = 2
